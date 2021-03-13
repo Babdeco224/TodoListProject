@@ -1,2 +1,3 @@
 # TodoListProject
 TodoList is our university project
+In this project we ......
